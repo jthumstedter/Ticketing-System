@@ -1,2 +1,4 @@
 TicketID,Summary,Status,Priority,Submitter,Assigned,Watching
 1,This is a bug ticket,Open,High,Drew Kjell,Jane Doe,Drew Kjell|John Smith|Bill Jones
+2,This is an example ticket,Open,High,Joe Swanson,Big Chungus,Joe Swanson|Big Chungus|Glenn Quagmire|Peter Griffin
+3,This is another epic ticket,Closed,Low,John Wick,John Cena,John Wick
